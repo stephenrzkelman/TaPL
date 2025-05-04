@@ -1,0 +1,5 @@
+- All exercises can be found in `homework.ml`
+- All other code is taken directly from [tapl](https://www.cis.upenn.edu/~bcpierce/tapl/) with only minor edits to `main.ml` to get my own code in there
+- Edit test cases in `test.f`
+- Build the code w/ `./build.sh`
+- Run the testcases with `./f test.f`
